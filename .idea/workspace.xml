@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d92c83b-a209-48d1-83ac-806185a24075" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA STRUCTURE ALGORITHM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA STRUCTURE ALGORITHM.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Barchart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BuildArrayFromPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CopyArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CopyElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/DifferenceOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/EvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FirstArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FirstArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FrequencyOfEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FrequencyOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/HourGlasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LeadGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinIncrementForUniqueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinimumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/NotRepeatelements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PrifixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverceArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SpanOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ToDemonstrateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ToDoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/WeekPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/asendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/convertArrayInTo2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/evenOddSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/largestMinimumDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/lastOuccourence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/maxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/mergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/minDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/multiplicationArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/noOfTimensElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/nonDecreasingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/numberOfGoodPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/orderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/pascalTrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/peakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/positiveIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/removeEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/searchIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/secondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/sumOfAllElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/unionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoNoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GManGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Case1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Case4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClass/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/InsertData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Patterns/MIrrorRightAngleTrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Patterns/Trangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Patterns/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Patterns/reverce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Patterns/rightAngleTrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/Patterns/rightangleTrangleAndReverce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MGMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Algebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Standard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/ArmStrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/DivisorsOfaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/ExtractingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/GCDofNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print0to3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionFiniteTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RevereNumberUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/FindFansLPosOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MissingNumberAmazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/assignCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/CountVowelConsonents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LargestSubstringBtwTwoCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Toggle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/counterCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/printSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TokenizationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Top150Questions/ClassMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Top150Questions/CoronaForComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Top150Questions/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Top150Questions/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Top150Questions/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UncommonColumns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flow_of_program/HCFANDLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flow_of_program/PatternK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flow_of_program/PrimeNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flow_of_program/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flow_of_program/leapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/payroll/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segregateEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unCommonElements.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ritesh19042002"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Ritesh19042002/Data-Structure-And-Algorithms-Problems.git",
+    "accountId": "131afc6e-f161-441d-9d41-5ab5919f65e4"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Arrays/TwoDArray.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Jb2hTQLegeLcmWIt9dcIzW7p6o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmStrongNumber.executor": "Run",
+    "Application.Case1 (1).executor": "Run",
+    "Application.Case1.executor": "Run",
+    "Application.Case4.executor": "Run",
+    "Application.DivisorsOfaNumber.executor": "Run",
+    "Application.ExtractingNumbers$Numbers.executor": "Debug",
+    "Application.GCDofNumbers.executor": "Run",
+    "Application.Print0to3.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Public/Project/projectManagementSystem",
+    "settings.editor.selected.configurable": "vcs.Mercurial"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="String" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Print0to3">
+    <configuration name="Case1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Case1" />
+      <module name="DATA STRUCTURE ALGORITHM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Case1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Case1" />
+      <module name="DATA STRUCTURE ALGORITHM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Case4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Case4" />
+      <module name="DATA STRUCTURE ALGORITHM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCDofNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numbers.GCDofNumbers" />
+      <module name="DATA STRUCTURE ALGORITHM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print0to3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Print0to3" />
+      <module name="DATA STRUCTURE ALGORITHM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Print0to3" />
+        <item itemvalue="Application.Case4" />
+        <item itemvalue="Application.Case1" />
+        <item itemvalue="Application.Case1 (1)" />
+        <item itemvalue="Application.GCDofNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d92c83b-a209-48d1-83ac-806185a24075" name="Changes" comment="" />
+      <created>1672332583525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672332583525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Shuffle.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Super.java</url>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/RevereNumberUsingRecursion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sorting/assignCookies.java</url>
+          <line>29</line>
+          <properties class="Sorting.assignCookies" method="findContentChildern">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/numberOfGoodPair.java</url>
+          <line>4</line>
+          <properties class="Arrays.numberOfGoodPair" method="numIdenticalPairs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/Searching/FindFansLPosOfElement.java</url>
+          <line>39</line>
+          <properties class="Searching.Solution" method="findFirstOccurrence">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/Searching/FindFansLPosOfElement.java</url>
+          <line>59</line>
+          <properties class="Searching.Solution" method="findLastOccurrence">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/Searching/FindFansLPosOfElement.java</url>
+          <line>32</line>
+          <properties class="Searching.Solution" method="searchRange">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/RevereNumberUsingRecursion.java</url>
+          <line>4</line>
+          <properties class="Recursion.RevereNumberUsingRecursion" method="Revercenumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/Top150Questions/DecimalToBinary.java</url>
+          <line>4</line>
+          <properties class="Top150Questions.DecimalToBinary" method="conversion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DATA_STRUCTURE_ALGORITHM$Demo4.ic" NAME="Demo4 Coverage Results" MODIFIED="1712339358843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>JavaClass.*</FILTER>
+    </SUITE>
+  </component>
+</project>
